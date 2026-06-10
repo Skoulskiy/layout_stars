@@ -1,0 +1,1 @@
+{"mappings":"AAEA;;;;;;AAMA;;;;;AAKA","sources":["src/style.css"],"sourcesContent":["/* add styles here */\n\nbody {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\n.content {\n  display: flex;\n  flex-direction: column;\n}\n\n.stars {\n  display: flex;\n}\n"],"names":[],"version":3,"file":"index.2cdaf7bc.css.map","sourceRoot":"/__parcel_source_root/"}

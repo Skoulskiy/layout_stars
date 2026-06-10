@@ -1,0 +1,15 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  flex-direction: column;
+  display: flex;
+}
+
+.stars {
+  display: flex;
+}
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
