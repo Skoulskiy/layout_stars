@@ -1,16 +1,2 @@
-/* add styles here */
-
-body {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-.content {
-  display: flex;
-  flex-direction: column;
-}
-
-.stars {
-  display: flex;
-}
+@import './styles/blocks/stars.css';
+@import './styles/blocks/stars__star.css';
